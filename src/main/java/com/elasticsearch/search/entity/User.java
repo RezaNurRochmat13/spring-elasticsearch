@@ -1,7 +1,5 @@
 package com.elasticsearch.search.entity;
 
-
-
 import lombok.Builder;
 import lombok.Getter;
 import lombok.Setter;
